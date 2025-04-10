@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页;未来持续更新~)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
@@ -14,7 +15,7 @@
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=#tianshuang000001/tianshuang000001&Date" frameBorder="0"></iframe>
+
 <!--
 **tianshuang000001/tianshuang000001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
