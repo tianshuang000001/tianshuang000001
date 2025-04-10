@@ -1,9 +1,7 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页,未来持续更新hhhhhhhh)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianshuang000001)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tianshuang000001)
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
