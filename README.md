@@ -12,7 +12,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tianshuang000001&left_color=green&right_color=red)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tianshuang000001)
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=tianshuang000001)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=username=iceend)
 
 
 <picture>
