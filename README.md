@@ -1,10 +1,10 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页,未来持续更新hhhhhhhh)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianshuang000001&show_icons=true&theme=radical)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianshuang000001)
 ![trophy](https://github-profile-trophy.vercel.app/?username=tianshuang000001)
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
@@ -12,7 +12,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tianshuang000001&left_color=green&right_color=red)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tianshuang000001)
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=username=iceend)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
 
 
 <picture>
