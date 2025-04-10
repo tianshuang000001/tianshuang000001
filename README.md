@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页;未来持续更新~)👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页;未来持续更新~)
 
 
