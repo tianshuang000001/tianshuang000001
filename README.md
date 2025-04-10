@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页,未来持续更新hhhhhhhh)
+![Visitor Count](https://profile-counter.glitch.me/tianshuang000001/count.svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
