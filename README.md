@@ -13,7 +13,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tianshuang000001)
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
